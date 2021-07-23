@@ -1,0 +1,7 @@
+C:\Users\cbluethman\source\repos\Verikai\bin\Release\Verikai.exe.config
+C:\Users\cbluethman\source\repos\Verikai\bin\Release\Verikai.exe
+C:\Users\cbluethman\source\repos\Verikai\bin\Release\Verikai.pdb
+C:\Users\cbluethman\source\repos\Verikai\obj\Release\Verikai.csprojAssemblyReference.cache
+C:\Users\cbluethman\source\repos\Verikai\obj\Release\Verikai.csproj.CoreCompileInputs.cache
+C:\Users\cbluethman\source\repos\Verikai\obj\Release\Verikai.exe
+C:\Users\cbluethman\source\repos\Verikai\obj\Release\Verikai.pdb
